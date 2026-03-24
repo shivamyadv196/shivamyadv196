@@ -152,6 +152,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyadv196&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=shivamyadv196&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 

@@ -36,6 +36,44 @@ I enjoy solving real-world problems through code and continuously improving my d
 - DBMS
 
 ---
+## 💼 Experience
+
+- 💻 **Open Source Contributor**  
+  📅 2025 – Present  
+  - Contributing to real-world projects on GitHub  
+  - Fixing issues and improving documentation  
+  - Collaborating with developers worldwide  
+
+- 🚀 **Personal Projects Developer**  
+  📅 2024 – Present  
+  - Built full-stack web applications using React & Spring Boot  
+  - Implemented REST APIs and responsive UI
+
+---
+
+## 🎓 Education
+
+ 🎓 **B.Tech in Computer Science**  
+  📍 Your College Name (e.g., IIT Roorkee / XYZ College)  
+  📅 2022 – 2026  
+  📊 CGPA: X.XX / 10  
+
+ 🏫 **12th (Senior Secondary)**  
+  📍 School Name  
+  📅 Year  
+  📊 Percentage: XX%
+
+  ---
+
+  ## 🏆 Achievements
+
+- 🥇 Solved XXX+ problems on LeetCode  
+- 🚀 Contributed to open source projects  
+- 📌 Built multiple full-stack projects  
+- 💡 Strong understanding of DSA & OOP concepts  
+- 🎯 Actively preparing for top tech companies
+
+  ---
 
 ## 🔥 Currently Working On
 

@@ -94,9 +94,28 @@
 
 ---
 
-### 🛠️ Tools & Platforms
+## 🛠️ Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+
+  <a href="https://docs.github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+
+  <a href="https://www.jetbrains.com/idea/documentation/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=idea" />
+  </a>
+
+  <a href="https://learning.postman.com/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
 </p>
 
 ---

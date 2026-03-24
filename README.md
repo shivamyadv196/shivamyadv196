@@ -29,7 +29,7 @@ I enjoy solving real-world problems through code and continuously improving my d
 - Hibernate
 - REST APIs
 
-### 🧠 Core Concepts
+### 📝 Core Concepts
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Problem Solving

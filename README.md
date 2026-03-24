@@ -44,8 +44,8 @@ I enjoy solving real-world problems through code and continuously improving my d
   - Fixing issues and improving documentation  
   - Collaborating with developers worldwide  
 
-- 🚀 **Personal Projects Developer**  
-  📅 2023 – Present  
+- 📚 **Personal Projects Developer**  
+   2023 – Present  
   - Built full-stack web applications using React & Spring Boot  
   - Implemented REST APIs and responsive UI
   - Built fully functional E-commerce website (Amazon-Clone)

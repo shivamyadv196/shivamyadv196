@@ -130,6 +130,7 @@
 -  Build impactful projects  
 -  Crack top tech companies  
 -  Master System Design
+ 
 ---  
 
 ## 🔥 GitHub Streak
@@ -137,6 +138,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shivamyadv196&theme=github-dark&hide_border=true" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -150,6 +152,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyadv196&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me

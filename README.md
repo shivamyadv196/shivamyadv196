@@ -9,9 +9,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student  
-- 💡 Passionate about building scalable & real-world applications  
-- 🛠️ Love solving problems using code  
-- 🌍 Active Open Source Contributor  
+-  Passionate about building scalable & real-world applications  
+-  Love solving problems using code  
+-  Active Open Source Contributor  
 
 ---
 
@@ -68,7 +68,7 @@
 
 ---
 
-### 🧠 Core Concepts
+###  Core Concepts
 <p>
   <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
     <img src="https://img.shields.io/badge/DSA-000?style=for-the-badge&logo=codeforces" />
@@ -89,14 +89,14 @@
 ## 💼 Experience
 
 ### 🔹 Open Source Contributor (2025 – Present)
-- 🌍 Contributing to real-world GitHub projects  
-- 🛠️ Fixing issues & improving documentation  
-- 🤝 Collaborating with developers worldwide  
+-  Contributing to real-world GitHub projects  
+-  Fixing issues & improving documentation  
+-  Collaborating with developers worldwide  
 
 ### 🔹 Personal Projects Developer (2023 – Present)
-- ⚡ Built full-stack apps using React & Spring Boot  
-- 🔗 Developed REST APIs & responsive UI  
-- 🛒 Created E-commerce (Amazon Clone)  
+-  Built full-stack apps using React & Spring Boot  
+-  Developed REST APIs & responsive UI  
+-  Created E-commerce (Amazon Clone)  
 
 ---
 
@@ -112,18 +112,18 @@
 
 ## 🔥 Currently Working On
 
-- 🚀 Open Source Contributions  
-- ⚡ Improving Full-Stack Skills  
-- 🧠 Learning System Design  
+-  Open Source Contributions  
+-  Improving Full-Stack Skills  
+-  Learning System Design  
 
 ---
 
 ## 🎯 Goals
 
-- 💼 Become Full-Stack Java Developer  
-- 🌍 Build impactful projects  
-- 🏆 Crack top tech companies  
-- 🏗️ Master System Design  
+-  Become Full-Stack Java Developer  
+-  Build impactful projects  
+-  Crack top tech companies  
+-  Master System Design  
 
 ---
 

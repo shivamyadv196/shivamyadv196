@@ -45,35 +45,22 @@ I enjoy solving real-world problems through code and continuously improving my d
   - Collaborating with developers worldwide  
 
 - 🚀 **Personal Projects Developer**  
-  📅 2024 – Present  
+  📅 2023 – Present  
   - Built full-stack web applications using React & Spring Boot  
   - Implemented REST APIs and responsive UI
+  - Built fully functional E-commerce website (Amazon-Clone)
 
 ---
 
 ## 🎓 Education
 
  🎓 **B.Tech in Computer Science**  
-  📍 Your College Name (e.g., IIT Roorkee / XYZ College)  
-  📅 2022 – 2026  
-  📊 CGPA: X.XX / 10  
-
- 🏫 **12th (Senior Secondary)**  
-  📍 School Name  
-  📅 Year  
-  📊 Percentage: XX%
+  📍 COER University 
+  📅 2023 – 2027  
+  📊 CGPA: 7.6 / 10  
 
   ---
 
-  ## 🏆 Achievements
-
-- 🥇 Solved XXX+ problems on LeetCode  
-- 🚀 Contributed to open source projects  
-- 📌 Built multiple full-stack projects  
-- 💡 Strong understanding of DSA & OOP concepts  
-- 🎯 Actively preparing for top tech companies
-
-  ---
 
 ## 🔥 Currently Working On
 

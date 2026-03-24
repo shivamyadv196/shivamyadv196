@@ -14,20 +14,19 @@ I enjoy solving real-world problems through code and continuously improving my d
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Frontend
-- HTML5
-- CSS3
-- JavaScript 
-- Bootstrap / Tailwind
-- React
+ HTML5, CSS3, JavaScript,
+ Tailwind. css/Bootstrap, React 
 
 ### ⚙️ Backend
-- Java
-- Spring Boot
-- Hibernate
-- REST APIs
+ Java, Spring Boot, Hibernate, REST APIs
+ 
+---
+📥Database 
+  MySQL, SQL, MongoDb 
+  
 
 ### 📝 Core Concepts
 - Data Structures & Algorithms

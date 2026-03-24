@@ -70,7 +70,7 @@
 
 ## 🧠 Core Concepts
 
-<p align="center">
+<p>
 
 <a href="https://en.wikipedia.org/wiki/Data_structure">
   <img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white"/>

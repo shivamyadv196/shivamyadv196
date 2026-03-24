@@ -78,7 +78,7 @@ Score: 80%
 
 ---
 
-## 🎯 Goals
+##  📝Goals
 
 - Become a Full-Stack Java Developer  
 - Build impactful real-world projects  

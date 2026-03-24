@@ -17,6 +17,11 @@
 -  Active Open Source Contributor  
 
 ---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivamyadv196&theme=github-dark&hide_border=true" />
+</p>
 
 ## ⚡ Tech Stack
 

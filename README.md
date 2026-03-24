@@ -133,14 +133,12 @@
   <a href="https://www.linkedin.com/in/shivam-yadav-80357b3a1" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
   <a href="https://leetcode.com/u/shivamyadv196/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48" />
   </a>
+
   <a href="https://github.com/shivamyadv196" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
----
-
-<p align="center">✨ Thanks for visiting my profile ✨</p>

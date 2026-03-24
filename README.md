@@ -129,10 +129,10 @@
 -  Become Full-Stack Java Developer  
 -  Build impactful projects  
 -  Crack top tech companies  
--  Master System Design  
+-  Master System Design
+---  
 
----
-## 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shivamyadv196&theme=github-dark&hide_border=true" />
@@ -142,13 +142,13 @@
   <img src="https://komarev.com/ghpvc/?username=shivamyadv196&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 ---
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivamyadv196&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 ---
-## 🧠 Most Used Languages
+ Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyadv196&layout=compact&theme=github_dark&hide_border=true" />

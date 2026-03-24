@@ -68,20 +68,26 @@
 
 ---
 
-###  Core Concepts
-<p>
-  <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
-    <img src="https://img.shields.io/badge/DSA-000?style=for-the-badge&logo=codeforces" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank">
-    <img src="https://img.shields.io/badge/OOP-000?style=for-the-badge&logo=java" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/problem-solving/" target="_blank">
-    <img src="https://img.shields.io/badge/Problem%20Solving-000?style=for-the-badge&logo=hackerrank" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/dbms/" target="_blank">
-    <img src="https://img.shields.io/badge/DBMS-000?style=for-the-badge&logo=mysql" />
-  </a>
+## 🧠 Core Concepts
+
+<p align="center">
+
+<a href="https://en.wikipedia.org/wiki/Data_structure">
+  <img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Object-oriented_programming">
+  <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Problem_solving">
+  <img src="https://img.shields.io/badge/Problem%20Solving-00C853?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Database">
+  <img src="https://img.shields.io/badge/DBMS-4DB33D?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
 </p>
 
 ---

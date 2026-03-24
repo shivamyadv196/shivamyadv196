@@ -135,8 +135,8 @@
   </a>
 
   <a href="https://leetcode.com/u/shivamyadv196/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48" />
-  </a>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48" style="background-color:black; padding:6px; border-radius:10px;" />
+</a>
 
   <a href="https://github.com/shivamyadv196" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />

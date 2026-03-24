@@ -71,11 +71,25 @@
 ## 🧠 Core Concepts
 
 <p>
-  <img src="https://img.shields.io/badge/DSA-%23007ACC.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-%23FF6F00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-%2300C853.svg?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBMS-%234CAF50.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Operating%20System-%232C3E50.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
+    <img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge&logo=databricks&logoColor=white"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/" target="_blank">
+    <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/problem-solving-techniques/" target="_blank">
+    <img src="https://img.shields.io/badge/Problem_Solving-00C853?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/dbms/" target="_blank">
+    <img src="https://img.shields.io/badge/DBMS-43A047?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/operating-systems/" target="_blank">
+    <img src="https://img.shields.io/badge/Operating_System-37474F?style=for-the-badge&logo=linux&logoColor=white"/>
+  </a>
 </p>
 
 ---

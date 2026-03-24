@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shivamyadv196&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   🚀 Aspiring Full-Stack Java Developer | 🌱 Open Source Enthusiast
@@ -141,6 +138,10 @@
   <img src="https://streak-stats.demolab.com?user=shivamyadv196&theme=github-dark&hide_border=true" />
 </p>
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shivamyadv196&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">

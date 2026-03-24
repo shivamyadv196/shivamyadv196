@@ -56,7 +56,7 @@ I enjoy solving real-world problems through code and continuously improving my d
 
 ## 📫 Connect With Me
 
-- LinkedIn:
+- LinkedIn:https://www.linkedin.com/in/shivam-yadav-80357b3a1
 - LeetCode: 
 
 ---

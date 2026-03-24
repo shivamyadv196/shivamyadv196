@@ -59,10 +59,10 @@ I enjoy solving real-world problems through code and continuously improving my d
   📅 2023 – 2027  
   📊 CGPA: 7.6 / 10  
   Class XII (2022) — Christuraja Public.   School 
-  Score: 94%
+  Score: 70.2%
 
 Class X (2020) — Christuraja Public School 
-Score: 96%
+Score: 80%
 
 
 

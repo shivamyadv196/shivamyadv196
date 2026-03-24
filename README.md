@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋, I'm Shivam Yadav
 
-<!--
-**shivamyadv196/shivamyadv196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 Aspiring Full-Stack Java Developer  
+🌱 Open Source Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m a B.Tech student passionate about building clean, scalable and user-friendly web applications.
+
+I enjoy solving real-world problems through code and continuously improving my development skills by contributing to open source and working on practical projects.
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Frontend
+- HTML5
+- CSS3
+- JavaScript 
+- Bootstrap / Tailwind
+- React
+
+### ⚙️ Backend
+- Java
+- Spring Boot
+- Hibernate
+- REST APIs
+
+### 🧠 Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+- DBMS
+
+---
+
+## 🔥 Currently Working On
+
+- Contributing to open source projects  
+- Improving frontend & backend skills  
+- Learning modern tools & system design  
+
+---
+
+## 🎯 Goals
+
+- Become a Full-Stack Java Developer  
+- Build impactful real-world projects  
+- Crack top tech opportunities  
+- Improve system design & architecture  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn:
+- LeetCode: 
+
+---
+

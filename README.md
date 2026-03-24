@@ -1,17 +1,17 @@
-# Hi 👋, I'm Shivam Yadav
+<h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 
-🚀 Full-Stack Java Developer | Building Scalable Web Apps  
-💡 Open Source Contributor | Problem Solver  
-⚡ Focused on: Spring Boot • REST APIs • System Design  
+<p align="center">
+  🚀 Aspiring Full-Stack Java Developer | 🌱 Open Source Enthusiast
+</p>
 
 ---
 
-## 🧑‍💻 About Me
-• 🎓 B.Tech CSE Student (2023–2027)  
-• 💻 Building scalable full-stack apps using Java & React  
-• 🚀 Passionate about solving real-world problems  
-• 🌍 Active Open Source Contributor  
-• 📈 Currently learning System Design & Backend Optimization  
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student  
+-  Passionate about building scalable & real-world applications  
+-  Love solving problems using code  
+-  Active Open Source Contributor  
 
 ---
 
@@ -19,18 +19,66 @@
 
 ### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
 </p>
+
+---
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" />
+  </a>
+  <a href="https://hibernate.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hibernate" />
+  </a>
 </p>
+
+---
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
 </p>
+
+---
+
+## 🧠 Core Concepts
+
+<p>
+  <img src="https://img.shields.io/badge/DSA-%23007ACC.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-%23FF6F00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-%2300C853.svg?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-%234CAF50.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operating%20System-%232C3E50.svg?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+---
 
 ### 🛠️ Tools & Platforms
 <p>
@@ -39,91 +87,81 @@
 
 ---
 
-## 🧠 Core Concepts
-<p>
-  <img src="https://img.shields.io/badge/DSA-Problem_Solving-blue" />
-  <img src="https://img.shields.io/badge/OOP-Concept-orange" />
-  <img src="https://img.shields.io/badge/DBMS-MySQL-success" />
-  <img src="https://img.shields.io/badge/OS-Operating_System-blueviolet" />
-  <img src="https://img.shields.io/badge/CN-Computer_Networks-green" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 E-Commerce App (Amazon Clone)
-• Built using React + Spring Boot  
-• Implemented authentication & REST APIs  
-• Responsive UI with real-time updates  
-🔗 https://github.com/YOUR_USERNAME/YOUR_REPO  
-
-### 🤖 Virtual Assistant (Assistant-Gorkha)
-• Voice-based command system  
-• Built using JavaScript  
-• Performs real-time tasks  
-🔗 https://github.com/YOUR_USERNAME/Assistant-Gorkha  
-
----
-
 ## 💼 Experience
 
-🔹 Open Source Contributor  
-• Contributed to real-world GitHub projects  
-• Fixed bugs and improved documentation  
-• Collaborated with developers worldwide  
+### 🔹 Open Source Contributor (2025 – Present)
+-  Contributing to real-world GitHub projects  
+-  Fixing issues & improving documentation  
+-  Collaborating with developers worldwide  
 
-🔹 Personal Projects Developer (2023–Present)  
-• Built full-stack apps using React & Spring Boot  
-• Developed REST APIs & responsive UI  
-• Created real-world projects like E-commerce apps  
+### 🔹 Personal Projects Developer (2023 – Present)
+-  Built full-stack apps using React & Spring Boot  
+-  Developed REST APIs & responsive UI  
+-  Created E-commerce (Amazon Clone)  
 
 ---
 
 ## 🎓 Education
-• 🎓 B.Tech CSE – COER University (2023–2027)  
-• 📊 CGPA: 7.6 / 10  
-• 🏫 Class XII – 70.2%  
-• 🏫 Class X – 80%  
+
+- 🎓 B.Tech CSE – COER University (2023 – 2027)  
+  📊 CGPA: 7.6 / 10  
+
+- 🏫 Class XII – 70.2%  
+- 🏫 Class X – 80%  
 
 ---
 
 ## 🔥 Currently Working On
-• Open Source Contributions  
-• Improving Full-Stack Skills  
-• Learning System Design  
+
+-  Open Source Contributions  
+-  Improving Full-Stack Skills  
+-  Learning System Design  
 
 ---
 
 ## 🎯 Goals
-• Become Full-Stack Java Developer  
-• Build impactful projects  
-• Crack top tech companies  
-• Master System Design  
+
+-  Become Full-Stack Java Developer  
+-  Build impactful projects  
+-  Crack top tech companies  
+-  Master System Design
+ 
+---  
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivamyadv196&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
-## 🔥 GitHub Stats
+## 📊 GitHub Stats
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamyadv196)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamyadv196&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shivamyadv196&show_icons=true&theme=radical)
+ ## Most Used Languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyadv196&layout=compact)
-
----
-
-## 👁️ Profile Views
-![](https://komarev.com/ghpvc/?username=shivamyadv196&color=blueviolet&style=flat-square)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyadv196&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=shivamyadv196&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
-  <a href="YOUR_LINKEDIN">
+
+<p>
+  <a href="https://www.linkedin.com/in/shivam-yadav-80357b3a1" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="YOUR_LEETCODE">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
-  </a>
+
+  <a href="https://leetcode.com/u/shivamyadv196/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48" style="background-color:black; padding:6px; border-radius:10px;" />
+</a>
+
 </p>

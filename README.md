@@ -1,95 +1,146 @@
-# Hi 👋, I'm Shivam Yadav
+<h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 
-🎓 B.Tech Student  
-💻 Aspiring Full-Stack Java Developer  
-🌱 Open Source Enthusiast  
+<p align="center">
+  🚀 Aspiring Full-Stack Java Developer | 🌱 Open Source Enthusiast
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a B.Tech student passionate about building clean, scalable and user-friendly web applications.
-
-I enjoy solving real-world problems through code and continuously improving my development skills by contributing to open source and working on practical projects.
+- 🎓 B.Tech CSE Student  
+- 💡 Passionate about building scalable & real-world applications  
+- 🛠️ Love solving problems using code  
+- 🌍 Active Open Source Contributor  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### 💻 Frontend
- HTML5, CSS3, JavaScript,
- Tailwind. css/Bootstrap, React 
+### 🖥️ Frontend
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+</p>
+
+---
 
 ### ⚙️ Backend
- Java, Spring Boot, Hibernate, REST APIs
- 
----
-### 📥Database 
-  MySQL, SQL, MongoDb 
-  
+<p>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" />
+  </a>
+  <a href="https://hibernate.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hibernate" />
+  </a>
+</p>
 
-### 📝 Core Concepts
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving
-- DBMS
+---
+
+### 🗄️ Database
+<p>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+</p>
 
 ---
+
+### 🧠 Core Concepts
+<p>
+  <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
+    <img src="https://img.shields.io/badge/DSA-000?style=for-the-badge&logo=codeforces" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank">
+    <img src="https://img.shields.io/badge/OOP-000?style=for-the-badge&logo=java" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/problem-solving/" target="_blank">
+    <img src="https://img.shields.io/badge/Problem%20Solving-000?style=for-the-badge&logo=hackerrank" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/dbms/" target="_blank">
+    <img src="https://img.shields.io/badge/DBMS-000?style=for-the-badge&logo=mysql" />
+  </a>
+</p>
+
+---
+
 ## 💼 Experience
 
-- 💻 **Open Source Contributor**  
-  📅 2025 – Present  
-  - Contributing to real-world projects on GitHub  
-  - Fixing issues and improving documentation  
-  - Collaborating with developers worldwide  
+### 🔹 Open Source Contributor (2025 – Present)
+- 🌍 Contributing to real-world GitHub projects  
+- 🛠️ Fixing issues & improving documentation  
+- 🤝 Collaborating with developers worldwide  
 
-- 📚 **Personal Projects Developer**  
-   2023 – Present  
-  - Built full-stack web applications using React & Spring Boot  
-  - Implemented REST APIs and responsive UI
-  - Built fully functional E-commerce website (Amazon-Clone)
+### 🔹 Personal Projects Developer (2023 – Present)
+- ⚡ Built full-stack apps using React & Spring Boot  
+- 🔗 Developed REST APIs & responsive UI  
+- 🛒 Created E-commerce (Amazon Clone)  
 
 ---
 
 ## 🎓 Education
 
- 🎓 **B.Tech in Computer Science**  
-  📍 COER University 
-  📅 2023 – 2027  
+- 🎓 B.Tech CSE – COER University (2023 – 2027)  
   📊 CGPA: 7.6 / 10  
-  
-  Class XII (2022) — Christuraja Public.   School 
-  Score: 70.2%
 
-Class X (2020) — Christuraja Public School 
-Score: 80%
+- 🏫 Class XII – 70.2%  
+- 🏫 Class X – 80%  
 
-
-
-  ---
-
+---
 
 ## 🔥 Currently Working On
 
-- Contributing to open source projects  
-- Improving frontend & backend skills  
-- Learning modern tools & system design  
+- 🚀 Open Source Contributions  
+- ⚡ Improving Full-Stack Skills  
+- 🧠 Learning System Design  
 
 ---
 
-##  📝Goals
+## 🎯 Goals
 
-- Become a Full-Stack Java Developer  
-- Build impactful real-world projects  
-- Crack top tech opportunities  
-- Improve system design & architecture  
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn:https://www.linkedin.com/in/shivam-yadav-80357b3a1
-- LeetCode: https://leetcode.com/u/shivamyadv196/
+- 💼 Become Full-Stack Java Developer  
+- 🌍 Build impactful projects  
+- 🏆 Crack top tech companies  
+- 🏗️ Master System Design  
 
 ---
 
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/shivam-yadav-80357b3a1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/shivamyadv196/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+  <a href="https://github.com/shivamyadv196" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile ✨</p>

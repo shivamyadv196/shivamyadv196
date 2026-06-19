@@ -153,6 +153,9 @@ A full-stack MERN Chat Application with real-time messaging, instant profile upd
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48" height="48" />
   </a>
 </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=shivamyadv196&label=Profile%20Views&color=0e75b6&style=flat" alt="shivamyadv196" />
+</p>
 
 ---
 
@@ -176,9 +179,6 @@ A full-stack MERN Chat Application with real-time messaging, instant profile upd
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamyadv196&theme=tokyo-night&hide_border=true" />
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shivamyadv196&label=Profile%20Views&color=0e75b6&style=flat" alt="shivamyadv196" />
 </p>
 
 ---

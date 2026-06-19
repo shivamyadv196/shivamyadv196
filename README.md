@@ -118,7 +118,9 @@ Score: 80%
 
 ---
 
-### 🔗 Chatify
+### 🧑‍💻Projects
+
+## Chatify:-
 
 A full-stack MERN Chat Application with real-time messaging, instant profile updates, secure authentication, and a responsive user interface.
 
@@ -128,7 +130,7 @@ A full-stack MERN Chat Application with real-time messaging, instant profile upd
 - 📱 Responsive design for seamless experience across devices
 - 🚀 Fully deployed and optimized on Vercel
 
-🔗 **Live:** https://your-chatify-link.vercel.app/
+🔗 **Live:** https://chatify01.vercel.app
 
 ---
 

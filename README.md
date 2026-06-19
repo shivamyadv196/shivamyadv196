@@ -118,9 +118,9 @@ Score: 80%
 
 ---
 
-### 🧑‍💻Projects
+## 🧑‍💻Projects
 
-## Chatify:-
+### Chatify:-
 
 A full-stack MERN Chat Application with real-time messaging, instant profile updates, secure authentication, and a responsive user interface.
 

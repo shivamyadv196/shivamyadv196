@@ -118,13 +118,17 @@ Score: 80%
 
 ---
 
-🔗 Chatify
-A full-stack MERN Chat Application with real-time messaging, instant profile updates, secure authentication, and responsive UI.
-⚡ Real-time chat with Socket.io
-👤 Fast profile photo updates
-🔐 JWT Authentication
-🚀 Fully deployed on Vercel
-🔗 Live: https://your-chatify-link.vercel.app/
+### 🔗 Chatify
+
+A full-stack MERN Chat Application with real-time messaging, instant profile updates, secure authentication, and a responsive user interface.
+
+- ⚡ Real-time chat powered by Socket.io
+- 👤 Instant profile photo and user information updates
+- 🔐 Secure JWT-based Authentication & Authorization
+- 📱 Responsive design for seamless experience across devices
+- 🚀 Fully deployed and optimized on Vercel
+
+🔗 **Live:** https://your-chatify-link.vercel.app/
 
 ---
 

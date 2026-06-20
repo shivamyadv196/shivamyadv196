@@ -178,7 +178,7 @@ A full-stack MERN Chat Application with real-time messaging, instant profile upd
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamyadv196&theme=tokyo-night&hide_border=true" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=shivamyadv196&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 

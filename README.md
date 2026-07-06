@@ -156,22 +156,6 @@ A full-stack MERN Chat Application with real-time messaging, instant profile upd
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamyadv196&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivamyadv196&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyadv196&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Contribution Graph
 
 <p align="center">

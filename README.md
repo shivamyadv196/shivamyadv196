@@ -106,7 +106,7 @@
 
 **Bachelor of Technology – CSE (2023–2027)**  
 College of Engineering Roorkee, Uttarakhand  
-CGPA: 7.8  
+CGPA: 7.04  
 
 
 **Class XII (2022) – Christuraja Public Junior High School**  

@@ -136,7 +136,7 @@ A full-stack MERN Chat Application with real-time messaging, instant profile upd
 
 ##  Goals
 
-- Become a skilled MERN Stack Developer
+
 - Master DSA & System Design
 - Build impactful real-world projects
 - Contribute to Open Source

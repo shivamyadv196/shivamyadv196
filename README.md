@@ -148,12 +148,7 @@ A full-stack MERN Chat Application with real-time messaging, instant profile upd
   <a href="https://www.linkedin.com/in/shivam-yadav-80357b3a1" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
-  <a href="https://leetcode.com/u/shivamyadv196/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48" height="48" />
-  </a>
-</p>
-
+  
 ---
 
 ## 🤝 Contribution Graph

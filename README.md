@@ -1,16 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shivam%20Yadav&fontSize=45&fontAlignY=35&animation=twinkling&color=0:134E5E,100:71B280&fontColor=ffffff" />
-</p>
+div align="center">
 
-<h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=180&section=header&text=Shivam%20Yadav&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java&descAlignY=62&descSize=18"/>
 
-<h3 align="center">
- Full Stack Developer | MERN Stack
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Java+%7C+Spring+Boot+%7C+MySQL;Building+Scalable+Web+Applications"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00D9FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
-</p>
+</div>
 
 ---
 
